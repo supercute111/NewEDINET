@@ -8,3 +8,4 @@ openpyxl
 yfinance
 altair
 certifi
+lxml
