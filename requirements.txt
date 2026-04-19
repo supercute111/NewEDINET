@@ -1,0 +1,10 @@
+streamlit
+pandas
+requests
+rapidfuzz
+pykakasi
+python-dotenv
+openpyxl
+yfinance
+altair
+certifi
